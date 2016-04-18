@@ -1,0 +1,1 @@
+* (https://www.apress.com/9781430262503?gtmf=s)[Beginning Haskell. A Project-Based Approach]
